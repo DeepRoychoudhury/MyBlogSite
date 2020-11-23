@@ -1,0 +1,66 @@
+
+body {
+	background-color: #003153;
+}
+
+img {	
+	width: 85px;
+	border-radius: 50%;
+	position: absolute; 
+	left: 45%;
+	top: 3%;
+    margin-left: 567px;
+	border-width: 50px;
+}
+
+.header{
+	margin-top: 120px;
+}
+
+.welcome{
+	color: #808000;
+	position: absolute; 
+	left: 47%;
+	top: 5%;	
+}
+
+.about{
+	color: #808000;
+	position: absolute;
+	right: 15%;
+	left: 5%;
+}
+
+b{
+	position: absolute;
+	left: 7%;
+}
+
+.rightFooter{
+color: #808000;
+position: absolute;
+left:88.7%;
+}
+
+.linkedin{
+	border-radius: 0%;
+	top: 25%;
+}
+
+.facebook{
+	width: 40px;
+	border-radius: 0%;
+	top: 31%;
+	left: 47%;
+}
+
+.instagram{
+	width: 40px;
+	border-radius: 0%;
+	top: 41%;
+	left: 47%;
+}
+
+.common{
+	background-color: #808000;
+}
