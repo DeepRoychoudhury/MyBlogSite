@@ -28,7 +28,7 @@ img {
 	color: #808000;
 	position: absolute;
 	right: 15%;
-	left: 5%;
+	left: 12%;
 }
 
 b{
@@ -40,6 +40,10 @@ b{
 color: #808000;
 position: absolute;
 left:88.7%;
+}
+
+.leftFooter{
+	position: absolute;
 }
 
 .linkedin{
@@ -63,4 +67,42 @@ left:88.7%;
 
 .common{
 	background-color: #808000;
+
+}
+
+
+img.school{
+	width:200px;
+	position: absolute;
+	border-radius: 0%;
+	top: 100%;
+	left: 0%;
+	margin: 40px 40px 40px 40px;
+}
+
+img.college{
+	width:160px;
+	position: absolute;
+	border-radius: 0%;
+	top: 105%;
+	left: 30%;
+	margin: 40px 40px 40px 40px;
+}
+
+img.office{
+	width:160px;
+	position: absolute;
+	border-radius: 0%;
+	top: 105%;
+	left: 55%;
+	margin: 40px 40px 40px 40px;
+}
+
+img.hobby{
+	width:160px;
+	position: absolute;
+	border-radius: 0%;
+	top: 105%;
+	left: 80%;
+	margin: 40px 40px 40px 40px;
 }
