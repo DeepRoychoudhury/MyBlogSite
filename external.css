@@ -31,6 +31,14 @@ img {
 	left: 12%;
 }
 
+.aboutDeepsHistory{
+	color: #808000;
+	position: absolute;
+	top: 53%;
+	right: 15%;
+	left: 12%;
+}
+
 b{
 	position: absolute;
 	left: 7%;
@@ -54,14 +62,21 @@ left:88.7%;
 .facebook{
 	width: 40px;
 	border-radius: 0%;
-	top: 31%;
+	top: 33%;
 	left: 47%;
 }
 
 .instagram{
 	width: 40px;
 	border-radius: 0%;
-	top: 41%;
+	top: 45%;
+	left: 47%;
+}
+
+.github{
+	width: 50px;
+	border-radius: 0%;
+	top: 57%;
 	left: 47%;
 }
 
@@ -105,4 +120,32 @@ img.hobby{
 	top: 105%;
 	left: 80%;
 	margin: 40px 40px 40px 40px;
+}
+
+div.schoolText{
+	position: absolute;
+	color: #808000;
+	top:103%;
+	left:8%;
+}
+
+div.collegeText{
+	position: absolute;
+	color: #808000;
+	top: 103%;
+	left: 37%;
+}
+
+div.companyText{
+	position: absolute;
+	color: #808000;
+	top: 103%;
+	left: 60%;
+}
+
+div.hobbiesText{
+	position: absolute;
+	color: #808000;
+	top: 103%;
+	left: 86%;
 }
