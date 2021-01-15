@@ -43,3 +43,7 @@ function Office(){
 function Hobby(){
 	document.getElementById("aboutDeepsHistory").innerHTML="";
 }
+
+function Report(){
+	document.getElementById("div.col-sm-10.jumbotron").innerHTML="Hello";
+}

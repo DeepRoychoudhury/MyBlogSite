@@ -3,13 +3,13 @@ body {
 	background-color: #003153;
 }
 
-img {	
+img.passport {	
 	width: 85px;
 	border-radius: 50%;
 	position: absolute; 
 	left: 45%;
 	top: 3%;
-    margin-left: 567px;
+    margin-left: 90px;
 	border-width: 50px;
 }
 
